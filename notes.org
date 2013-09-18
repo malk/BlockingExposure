@@ -19,28 +19,31 @@
 ** How
    Understanding the mechanisms can help a little, knowledge is power, but
    good tricks will work even on someone who knows them. Some books:
-*** Nudge: Improving Decisions About Health, Wealth, and Happiness
-*** Influence: Science and Practice
-*** Why We Buy: The Science of Shopping
-*** Persuasion, Social Influence, and Compliance Gaining
-*** How Customers Think: Essential Insights into the Mind of the Market
-*** The Gamification Revolution: How Leaders Leverage Game Mechanics to Crush the Competition
+
+   * Nudge: Improving Decisions About Health, Wealth, and Happiness
+   * Influence: Science and Practice
+   * Why We Buy: The Science of Shopping
+   * Persuasion, Social Influence, and Compliance Gaining
+   * How Customers Think: Essential Insights into the Mind of the Market
+   * The Gamification Revolution: How Leaders Leverage Game Mechanics to Crush the Competition
 
 * Misconceptions (things just wrong)
 ** One can resist mind tricks
-*** a good mind trick will work on someone that know it
+   a good mind trick will work on someone that know it
 ** Engaging with brands
-*** should never be more important for any company than "people happily using our products/services"
-**** should never be a wan of any person
+   should never be more important for any company than "people happily using
+   our products/services.
+
+   Should never be a want of any person.
 
 * Avoiding tricks
 ** Books that help avoiding tricks
-*** Thinking fast and slow
-*** The Information Diet: A Case for Conscious Consumption
-*** Willpower: Rediscovering the Greatest Human Strength
+   * Thinking fast and slow
+   * The Information Diet: A Case for Conscious Consumption
+   * Willpower: Rediscovering the Greatest Human Strength
 ** Techniques
 *** Apparently meditation may help some
 *** Mindfulness
-**** what books on it
+    what books on it?
 *** Techniques for avoiding exposure
-**** which ones?
+    which ones?
